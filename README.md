@@ -10,7 +10,7 @@ Precisando melhorar seus resultados, ela quer conseguir entender os principais m
 
 Base de dados e arquivos: [Dataset](https://github.com/MatheusMataBIO/Projeto_analise_de_dados_cancelamento_de_clientes/blob/main/cancelamentos_sample.csv)
 
-## Stacks utilizadas
+### Stacks utilizadas
 
 **Python3** 
 
